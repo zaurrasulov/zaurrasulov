@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1> Hi there!  <img src="https://github.com/abbasgulu/abbasgulu/blob/main/assent/wave.gif" width="30px"></h1>
 
 <!--
 **zaurrasulov/zaurrasulov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
