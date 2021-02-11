@@ -4,4 +4,3 @@ I am an Azerbaijani student currently studying at Yildiz Technical University in
 
 You can contact me via my LinkedIn profile: <a href="https://www.linkedin.com/in/zaur-rasulov-281a0b195/" rel="nofollow">LinkedIn</a></li>
 
-![Zaur's github stats](https://github-readme-stats.vercel.app/api?username=zaurrasulov&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
